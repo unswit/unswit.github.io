@@ -12,7 +12,7 @@ github_repo: "https://github.com/unswit/unswit.github.io.git" # you code reposit
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "The central enemy of reliability is complexity."
-#sidebar-avatar: /image.png      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: unswit/unswit.github.io/image.png      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
